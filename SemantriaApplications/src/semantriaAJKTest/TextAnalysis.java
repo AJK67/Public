@@ -1,4 +1,4 @@
-package semantriaTest;
+package semantriaAJKTest;
 
 import com.semantria.*;
 import com.semantria.interfaces.ISerializer;
